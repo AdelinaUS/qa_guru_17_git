@@ -7,6 +7,6 @@ public class NewTest {
     void newTest() {
         int i = 42;
         System.out.println("This is the best test");
-        Assertions.assertTrue(i > 2);
+        Assertions.assertTrue(3 > 2);
     }
 }
