@@ -1,4 +1,4 @@
-import com.sun.nio.sctp.Association;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class NewTest {
